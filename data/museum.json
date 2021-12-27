@@ -1,0 +1,56 @@
+{
+    "pagination": {},
+    "data": [
+        {
+            "name": "Louvre",
+            "location": "Paris, France",
+            "event_description": "seveentdgsdgsdgsd",
+            "event_description_image": "eventssssss",
+            "ticket_price": "100$$ " ,
+            "id": 228816,
+            "title": "Rodeo Drive #55",
+            "main_reference_number": "2019.1516.7",
+            "date_display": "1984, printed c. 2014",
+            "artist_display": "Anthony Hernandez\nAmerican, born 1947",
+            "image_id": "4ef112a7-d01b-5514-3c72-99b3562c03da"
+        },
+        {
+            "name": "Louvre",
+            "location": "Paris, France",
+            "event_description": "seveentdgsdgsdgsd",
+            "event_description_image": "eventssssss",
+            "ticket_price": "100$$ " ,
+            "id": 228817,
+            "title": "Rodeo Drive #55",
+            "main_reference_number": "2019.1516.7",
+            "date_display": "1984, printed c. 2014",
+            "artist_display": "Anthony Hernandez\nAmerican, born 1947",
+            "image_id": "4ef112a7-d01b-5514-3c72-99b3562c03da"
+        },
+        {
+            "name": "Louvre",
+            "location": "Paris, France",
+            "event_description": "seveentdgsdgsdgsd",
+            "event_description_image": "eventssssss",
+            "ticket_price": "100$$ " ,
+            "id": 228818,
+            "title": "Rodeo Drive #55",
+            "main_reference_number": "2019.1516.7",
+            "date_display": "1984, printed c. 2014",
+            "artist_display": "Anthony Hernandez\nAmerican, born 1947",
+            "image_id": "4ef112a7-d01b-5514-3c72-99b3562c03da"
+        }
+    ],
+    "info": {
+        "license_text": "The data in this response is licensed under a Creative Commons Zero (CC0) 1.0 designation and the Terms and Conditions of artic.edu.",
+        "license_links": [
+            "https://creativecommons.org/publicdomain/zero/1.0/",
+            "https://www.artic.edu/terms"
+        ],
+        "version": "1.1"
+    },
+    "config": {
+        "iiif_url": "https://www.artic.edu/iiif/2",
+        "website_url": "http://www.artic.edu"
+    }
+}
