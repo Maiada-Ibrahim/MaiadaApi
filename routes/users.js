@@ -9,6 +9,7 @@ let users = [
         "prodectName": "23/Lenovo Ideapad L3 Laptop, 15.6 Inch, Intel Core i3, 4GB RAM, 1TB, Dos/2021",
         "prodectImg" :"https://620880-2015646-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2021/02/unnamed-2-1.jpg",
         "price": "369JD" ,
+        "sellerEmail":"maiada.ibrahim.27@icloud.com",
         "id": 228816,
         "date_display": "23/12/2021"
     },
