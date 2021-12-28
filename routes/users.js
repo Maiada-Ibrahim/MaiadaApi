@@ -39,10 +39,8 @@ let users = [
         "description":"Daewoo Dish Washer 14 Set | 8 Program | A+++ | 3 basket | 3 Spray | LED Display | Steel",
         "id": 228816,
         "date_display": "23/12/2021" 
-    },
-    {
- 
     }
+ 
    
 ];
 router.get('/', (req,res)=>{
